@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1792912037085,
+        "tanggal": "2026-10-28",
+        "pelanggan": "asd",
+        "noHp": "21312",
+        "produk": "asas",
+        "paket": "Private",
+        "jumlah": 1,
+        "modal": 234,
+        "hargaJual": 23432,
+        "pendapatan": 23432,
+        "profit": 23198,
+        "masaAktif": 5,
+        "tanggalMulai": "2026-10-28",
+        "tanggalBerakhir": "2026-11-01",
+        "garansi": "Ada"
+    }
+]
